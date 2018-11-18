@@ -1,0 +1,22 @@
+{
+  "name": "expressassignment",
+  "version": "1.0.0",
+  "description": "Using express assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdkesner/ExpressAssignment.git"
+  },
+  "author": "Curtis Kesner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdkesner/ExpressAssignment/issues"
+  },
+  "homepage": "https://github.com/cdkesner/ExpressAssignment#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
